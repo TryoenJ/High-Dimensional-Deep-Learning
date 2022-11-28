@@ -21,8 +21,7 @@ The main theme of the course is learning methods, especially deep neural network
 
 * Anomaly detection for functional data: One Class SVM, Random Forest, Isolation Forest, Local Outlier Factor. Applications to  anomaly detection in functional data.
  
-* Recurrent Neural Networks <br/>
-**Application** : [Sentiment analysis through Recurrent Neural Networks](https://github.com/wikistat/High-Dimensional-Deep-Learning/tree/master/RNN)
+* Deep learning for time series forecasting
 
 ------------
  
